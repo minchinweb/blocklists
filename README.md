@@ -13,5 +13,6 @@ Link to add to Pi-Hole to add this:
 
 Blacklist -->
 <https://raw.githubusercontent.com/MinchinWeb/blocklists/master/general.hosts.txt>
+
 Whitelist -->
 <https://raw.githubusercontent.com/MinchinWeb/blocklists/master/whitelist.txt>
