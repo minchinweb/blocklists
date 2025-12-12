@@ -1,0 +1,164 @@
+#  __  __ _            _     _                  
+# |  \/  (_)          | |   (_)                 
+# | \  / |_ _ __   ___| |__  _ _ __   ___  __ _ 
+# | |\/| | | '_ \ / __| '_ \| | '_ \ /  __/ _\`|
+# | |  | | | | | | (__| | | | | | | || (_| (_| |
+# |_|  |_|_|_| |_|\___|_| |_|_|_| |_(_)___\__,_|
+# 
+# Personal Whitelist (aka allowlist) for Pi-Hole
+#
+# Project Home: https://github.com/MinchinWeb/blocklists
+#
+# I aim mostly to block ads, but aire on the side of keeping things functional.
+
+
+# Before I kept notes...
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+www.bit.ly
+bit.ly
+ow.ly
+goo.gl
+tinyurl.com
+msftncsi.com
+www.msftncsi.com
+ea.com
+cdn.optimizely.com
+res.cloudinary.com
+gravatar.com
+rover.ebay.com
+imgs.xkcd.com
+netflix.com
+alluremedia.com.au
+tomshardware.com
+ocsp.apple.com
+s.shopify.com
+keystone.mwbsys.com
+dl.dropbox.com
+api.ipify.org
+lifehacker.com
+mqtt-mini.facebook.com
+edge-mqtt.facebook.com
+android.clients.google.com
+kotaku.com
+thepiratebay.org
+ama.ab.ca
+jalopnik.com
+forms.ontraport.com
+app.hubspot.com
+js.hubspot.com
+js.hs-scripts.com
+track.hubspot.com
+ns1.com
+s.yimg.jp
+b-api.facebook.com
+beacons.gcp.gvt2.com
+beacons2.gcp.gvt2.com
+beacons3.gcp.gvt2.com
+beacons4.gcp.gvt2.com
+b-graph.facebook.com
+graph.facebook.com
+urbandictionary.com
+www.urbandictionary.com
+ue.flipboard.com
+developers.google.com
+axemusic.com
+www.axemusic.com
+youtu.be
+howtogeek.com
+www.howtogeek.com
+www.synology.com
+dilbert.com
+mobilesyrup.com
+s0.wp.com
+s1.wp.com
+device.auth.xboxlive.com
+rateyourmusic.com
+s7d2.scene7.com
+docs.wixstatic.com
+s.w.org
+business.facebook.com
+byui.az1.qualtrics.com
+rdsig.yahoo.co.jp
+time.com
+api-mifit.huami.com
+account-us.huami.com
+gdlp01.c-wss.com
+services.gfe.nvidia.com
+rds-assets.nvidia.com
+www.shenyun.com
+imasdk.googleapis.com
+i.rmbl.ws
+forms.gle
+beacons.gvt2.com
+beacons5.gvt3.com
+bitbucket.org
+www.goodreads.com
+www.wired.co.uk
+tracker.openbittorrent.com
+img1.wsimg.com
+www.drivethelife.com
+www.dummies.com
+openlibrary.org
+www.loggly.com
+modthesims.info
+www.modthesims.info
+filebin.net
+classifieds.edmontonsun.com
+
+# gray market, but not fraud....
+g2a.com
+www.g2a.com
+
+# Xbox Achievements
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+
+# Xbox Game Pass
+arc.msn.com
+
+# PWRS newletter images
+files.constantcontact.com
+
+# Google Fonts
+fonts.gstatic.com
+
+# NY Times fonts
+nyt5-assets.prd.map.nytimes.com
+# NY Times static assets
+static.prd.map.nytimes.com
+
+# AliExpress &quot;slide to verify&quot; image
+ynuf.alipay.com
+
+
+# needed for Nvidia driver check
+assets.adobedtm.com
+
+# Microsoft Family App
+mobile.pipe.aria.microsoft.com
+web.vortex.data.microsoft.com
+
+# Not (only) porn...
+i.imgur.com
+
+# Twitter Images (not only porn)
+pbs.twimg.com
+
+# Lutron app
+js-agent.newrelic.com
+bam.nr-data.net
+
+# Centre-Nord newsletters
+track.spe.schoolmessenger.com
+
+# Canadian Tax Software (not malware)
+mytaxexpress.com
+www.mytaxexpress.com
+
+# Payment processor for RootsMagic
+www.aitsafe.com
