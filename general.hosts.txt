@@ -79,7 +79,7 @@ www.shoppingdealslive.com
 # MineCraft (Bedrock) Featured Servers
 mco.cubecraft.net
 play.cubecraft.net
-(.|^)cubecraft.net$
+||cubecraft.net^
 
 adv.lbsg.net
 arc.lbsg.net
@@ -102,10 +102,10 @@ sm.lbsg.net
 sw.lbsg.net
 wi.lbsg.net
 za.lbsg.net
-(.|^)lbsg.net$
+||lbsg.net^
 
 play.galaxite.net
-(.|^)galaxite.net$
+||galaxite.net^
 
 hivebedrock.network
 ca.hivebedrock.network
@@ -113,15 +113,15 @@ fr.hivebedrock.network
 geo.hivebedrock.network
 sg.hivebedrock.network
 cdn.playhive.com
-(.|^)hivebedrock.network$
+||hivebedrock.network^
 
 mco.mineplex.com
 pebg.mineplex.com
 play.mineplex.com
-(.|^)mineplex.com$
+||mineplex.com^
 
 play.inpvp.net
-(.|^)inpvp.net$
+||inpvp.net^
 
 server.mineville.org
 
